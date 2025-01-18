@@ -29,3 +29,4 @@ lerna-debug.log*
 
 dev.db
 dist
+compose.yaml
